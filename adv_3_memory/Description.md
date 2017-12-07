@@ -1,3 +1,6 @@
+## Link to original challenge
+[Advent of Code, Day 1](http://adventofcode.com/2017/day/1)
+
 --- Day 3: Spiral Memory ---
 
 You come across an experimental new kind of memory stored on an infinite two-dimensional grid.
