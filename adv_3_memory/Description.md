@@ -1,5 +1,5 @@
 #### Link to original challenge
-[Advent of Code, Day 1](http://adventofcode.com/2017/day/1)
+[Advent of Code, Day 3](http://adventofcode.com/2017/day/3)
 
 ## --- Day 3: Spiral Memory ---
 

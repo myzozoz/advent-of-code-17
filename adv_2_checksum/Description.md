@@ -1,5 +1,5 @@
 #### Link to original challenge
-[Advent of Code, Day 1](http://adventofcode.com/2017/day/2)
+[Advent of Code, Day 2](http://adventofcode.com/2017/day/2)
 
 ## --- Day 2: Corruption Checksum ---
 
