@@ -11,3 +11,5 @@ My puzzle inputs are either in text files inside the respective folders or in so
 - [3](adv_3_memory)
 - [4](adv_4_passphrase)
 - [5](adv_5_jumps)
+- [6](adv_6_banks)
+- [7](adv_7_recursive-circus)
