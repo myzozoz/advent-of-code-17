@@ -13,3 +13,4 @@ My puzzle inputs are either in text files inside the respective folders or in so
 - [5](adv_5_jumps)
 - [6](adv_6_banks)
 - [7](adv_7_recursive-circus)
+- [8](adv_8_i-heard-you-like-registers)
