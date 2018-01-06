@@ -15,4 +15,4 @@ My puzzle inputs are either in text files inside the respective folders or in so
 - [Day 7: Recursive Circus](adv_7_recursive-circus)
 - [Day 8: I heard you like registers](adv_8_i-heard-you-like-registers)
 - [Day 9: Stream Processing](adv_9_stream-processing)
-- [Day 10: Knot Hash](adv_10_stream-processing)
+- [Day 10: Knot Hash](adv_10_knot-hash)
