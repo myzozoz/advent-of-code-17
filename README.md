@@ -17,3 +17,4 @@ My puzzle inputs are either in text files inside the respective folders or in so
 - [Day 9: Stream Processing](adv_9_stream-processing)
 - [Day 10: Knot Hash](adv_10_knot-hash)
 - [Day 11: Hex Ed](adv_11_hex-ed)
+- [Day 12: Digital Plumber](adv_12_digital-plumber)
